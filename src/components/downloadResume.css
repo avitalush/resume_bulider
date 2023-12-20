@@ -1,0 +1,16 @@
+#styled-content {
+    background-color: #f8f9fa; /* רקע כללי */
+    color: #212529; /* צבע טקסט כללי */
+  }
+  
+  /* עיצוב קטע 1 */
+  #section1 {
+    background-color: #6c757d; /* רקע קטע 1 */
+    color: #ffffff; /* צבע טקסט קטע 1 */
+  }
+  
+  /* עיצוב קטע 2 */
+  #section2 {
+    background-color: #007bff; /* רקע קטע 2 */
+    color: #ffffff; /* צבע טקסט קטע 2 */
+  }

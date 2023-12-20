@@ -24,8 +24,7 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
+  background:url("https://cdn.pixabay.com/photo/2020/10/27/06/37/man-5689701_1280.jpg");
   min-width: 320px;
   min-height: 100vh;
 }
